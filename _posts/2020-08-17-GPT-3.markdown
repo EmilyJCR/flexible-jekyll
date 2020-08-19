@@ -3,7 +3,7 @@ layout: post
 title: GPT-3 y el futuro...
 date: 2020-08-18 00:00:00 -0500
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: openai.jpg # Add image post (optional)
+img: openai-cover.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [GPT-3, OPENAI, UX] # add tag
 ---
