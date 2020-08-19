@@ -7,7 +7,6 @@ img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Acerca de mí]
 ---
-Hola mi nombre es Emily Jamileth Castro Rizzo, Soy ecuatoriana, naci en la provincia del Guayas, el 25 de septiembre de 1999, casada  tengo 21 años .Desde la niñez viví en el cantón Guayaquil perteneciente a la provincia del Guayas, estudio en la universidad de Guayaquil. Trabajo en casa y me gusta ayudar con las responsabilidades del hogar. Me considero una persona tolerante y responsable, me causa ansiedad no saber ni entender las cosas y trato de siempre llenar esos vacíos.
 
 ## ¿Quién soy?
 Hola mi nombre es Emily Jamileth Castro Rizzo, Soy ecuatoriana, naci en la provincia del Guayas, el 25 de septiembre de 1999, casada  tengo 21 años .Desde la niñez viví en el cantón Guayaquil perteneciente a la provincia del Guayas, estudio en la universidad de Guayaquil. Trabajo en casa y me gusta ayudar con las responsabilidades del hogar. Me considero una persona tolerante y responsable, me causa ansiedad no saber ni entender las cosas y trato de siempre llenar esos vacíos.
