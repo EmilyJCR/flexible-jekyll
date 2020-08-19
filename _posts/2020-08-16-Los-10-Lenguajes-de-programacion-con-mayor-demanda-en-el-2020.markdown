@@ -29,3 +29,10 @@ Vemos que el lenguaje de programación GO, siempre está es los primeros puestos
 
 ### Lenguaje de programación más usado por los ingenieros de Software:
 En este parámetro si podemos observar que los que encabezan en esta lista, son: JavaScript y Python, esto se debe a que son los lenguajes de programación más amados y usados por los ingenieros de desarrollo.
+
+### Conclusion
+Para tocar el tema del por qué Python no se encuentra en este listado, tenemos qué: en la lista de “Lenguajes de programación más demanda y menos oferta”, Python se encuentra en el puesto 12, que al fin de cuentas no es mala esta posición, este puesto lo tiene a causa de que hay mucha demanda y mucha oferta, es decir, existen una gran multitud de programadores calificados en PYTHON.
+
+Sin importar a que se dedican las compañías, la gran mayoría está dedicando espacio y presupuesto a los departamentos de las TIC's (Tecnologías de la Información), sobre todo el desarrollo de Software, a causa que, si las empresas no invierten en tecnologías o empiezan a modernizar sus procesos y estar a la vanguardia, son empresas que tienden a desaparecer.
+
+>Como parte de la misión de los encargados del desarrollo de software, es ayudar a las empresas a que innoven y se transformen al mundo digital, tanto en temas de búsqueda de datos, analítica de datos, y por supuesto, nuevas formas de hacer lo cotidiano con tan solo un clic.
