@@ -1,0 +1,23 @@
+---
+layout: post
+title: GPT-3 y el futuro...
+date: 2020-08-18 00:00:00 -0500
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: openai-cover.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [GPT-3, OPENAI, Software] # add tag
+---
+
+GPT-3 Es un modelo de lenguaje autorregresivo que utiliza el aprendizaje profundo para producir texto similar al humano. Es el modelo de predicción de lenguaje de tercera generación de la serie GPT-n creado por OpenAI, un laboratorio de investigación de inteligencia artificial con fines de lucro con sede en San Francisco. La versión completa de GPT-3 tiene una capacidad de 175 mil millones de parámetros de aprendizaje automático, que es más de dos órdenes de magnitud mayor que la de su predecesor, GPT-2. GPT-3, que se introdujo en mayo de 2020, y está en prueba beta a partir de julio de 2020, es parte de una tendencia en los sistemas de procesamiento del lenguaje natural (NLP) de representaciones de lenguaje previamente entrenadas. Antes del lanzamiento de GPT-3, el modelo de lenguaje más grande era Turing NLG de Microsoft, introducido en febrero de 2020, con una capacidad de 17 mil millones de parámetros o menos del 10 por ciento en comparación con GPT-3. 
+La calidad del texto generado por GPT-3 es tan alta que es difícil distinguirlo del escrito por un humano, que tiene tanto beneficios como riesgos. Treinta y un investigadores e ingenieros de OpenAI presentaron el documento original del 28 de mayo de 2020 que presenta GPT-3. En su artículo, advirtieron sobre los peligros potenciales de GPT-3 y pidieron investigación para mitigar el riesgo. David Chalmers, un filósofo australiano, describió a GPT-3 como "uno de los sistemas de IA más interesantes e importantes jamás producidos.
+
+### Como es visto GPT-3
+En su revisión del 29 de julio de 2020 en The New York Times, Farhad Manjoo dijo que GPT-3 puede generar código de computadora y poesía, así como prosa, no es solo "asombroso", "espeluznante" y "humillante", pero también "más que un poco aterrador".
+Daily Nous presentó una serie de artículos de nueve filósofos sobre GPT-3. El filósofo australiano David Chalmers describió al GPT-3 como "uno de los sistemas de IA más interesantes e importantes jamás producidos".
+Una revisión en Wired dijo que GPT-3 estaba "provocando escalofríos en Silicon Valley".
+Un artículo en Towards Data Science declaró que GPT-3 fue entrenado en cientos de miles de millones de palabras y es capaz de codificar en CSS, JSX, Python y otros lenguajes. 
+La National Law Review dijo que GPT-3 es un "paso impresionante en el proceso más grande", con OpenAI y otros encontrando "aplicaciones útiles para todo este poder" mientras continúan "trabajando hacia una inteligencia más general".
+![aihuman]({{site.baseurl}}/assets/img/inteligencia-artificial.jpg)
+
+
+> ¿será esto el comienzo de una nueva etapa en la vida de los desarrolladores de software?
