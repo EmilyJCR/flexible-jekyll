@@ -5,7 +5,7 @@ date: 2020-08-18 00:00:00 -0500
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: openai-cover.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [GPT-3, OPENAI, UX] # add tag
+tags: [GPT-3, OPENAI, Software] # add tag
 ---
 
 GPT-3 Es un modelo de lenguaje autorregresivo que utiliza el aprendizaje profundo para producir texto similar al humano. Es el modelo de predicción de lenguaje de tercera generación de la serie GPT-n creado por OpenAI, un laboratorio de investigación de inteligencia artificial con fines de lucro con sede en San Francisco. La versión completa de GPT-3 tiene una capacidad de 175 mil millones de parámetros de aprendizaje automático, que es más de dos órdenes de magnitud mayor que la de su predecesor, GPT-2. GPT-3, que se introdujo en mayo de 2020, y está en prueba beta a partir de julio de 2020, es parte de una tendencia en los sistemas de procesamiento del lenguaje natural (NLP) de representaciones de lenguaje previamente entrenadas. Antes del lanzamiento de GPT-3, el modelo de lenguaje más grande era Turing NLG de Microsoft, introducido en febrero de 2020, con una capacidad de 17 mil millones de parámetros o menos del 10 por ciento en comparación con GPT-3. 
