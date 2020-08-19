@@ -8,8 +8,10 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Emily Castro # add your name
 author-img: emily-castro.jpg # add your photo
-about-author: Bienvenido a mi blog. # add description
-social-email: # add your Email address
+about-author: Bienvenido a mi blog.
+"Me gusta administrar mi tiempo y llevar un control de todas las cosas"
+# add description
+social-email: Emirjonael12@gmail.com
 
 # Build Settings
 markdown: kramdown
