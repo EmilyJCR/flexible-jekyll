@@ -13,6 +13,6 @@ Hola mi nombre es Emily Jamileth Castro Rizzo, Soy ecuatoriana, naci en la provi
 
 ![I and My friends]({{site.baseurl}}/assets/img/emxs.jpg)
 
->Espero poder cumplir progresivamente todos mis objetivos propuestos
+>Vive un dia a la vez
 
 
