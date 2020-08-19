@@ -12,6 +12,7 @@ Es un lenguaje de programación interpretado cuya filosofía hace hincapié en l
 Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License,
 
 ### Filosofia de Python
+>
 -Bello es mejor que feo.
 -Explícito es mejor que implícito.
 -Simple es mejor que complejo.
@@ -31,7 +32,7 @@ Es administrado por la Python Software Foundation. Posee una licencia de código
 -Si la implementación es difícil de explicar, es una mala idea.
 -Si la implementación es fácil de explicar, puede que sea una buena idea.
 -Los espacios de nombres (namespaces) son una gran idea ¡Hagamos más de esas cosas!
-
+>
 ### Interprete de Python
 El intérprete de Python estándar incluye un modo interactivo en el cual se escriben las instrucciones en una especie de intérprete de comandos: las expresiones pueden ser introducidas una a una, pudiendo verse el resultado de su evaluación inmediatamente, lo que da la posibilidad de probar porciones de código en el modo interactivo antes de integrarlo como parte de un programa. Esto resulta útil tanto para las personas que se están familiarizando con el lenguaje como para los programadores más avanzados.
 
