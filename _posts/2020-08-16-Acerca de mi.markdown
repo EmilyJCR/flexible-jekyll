@@ -13,9 +13,6 @@ Hola mi nombre es Emily Jamileth Castro Rizzo, Soy ecuatoriana, naci en la provi
 
 ![I and My friends]({{site.baseurl}}/assets/img/emxs.jpg)
 
->Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
+>Espero poder cumplir progresivamente todos mis objetivos propuestos
 
-* Hexagon shoreditch beard
-* Intelligentsia narwhal austin
-* Literally meditation four
-* Microdosing hoodie woke
+
