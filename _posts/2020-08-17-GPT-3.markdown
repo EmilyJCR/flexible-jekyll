@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GPT-3 & UX Designers
+title: GPT-3 y el futuro...
 date: 2020-08-18 00:00:00 -0500
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: openai.jpg # Add image post (optional)
@@ -17,8 +17,8 @@ Daily Nous presentó una serie de artículos de nueve filósofos sobre GPT-3. El
 Una revisión en Wired dijo que GPT-3 estaba "provocando escalofríos en Silicon Valley".
 Un artículo en Towards Data Science declaró que GPT-3 fue entrenado en cientos de miles de millones de palabras y es capaz de codificar en CSS, JSX, Python y otros lenguajes. 
 La National Law Review dijo que GPT-3 es un "paso impresionante en el proceso más grande", con OpenAI y otros encontrando "aplicaciones útiles para todo este poder" mientras continúan "trabajando hacia una inteligencia más general".
-![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
+![aihuman]({{site.baseurl}}/assets/img/inteligencia-artificial.jpg)
 
 
-### Man bun umami keytar
+> ¿será esto el comienzo de una nueva etapa en la vida de los desarrolladores de software?
 
